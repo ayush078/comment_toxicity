@@ -1,0 +1,30 @@
+--- toxic Model Evaluation ---
+Accuracy: 0.9610
+F1 Score: 0.7599
+ROC AUC Score: 0.8195
+
+--- severe_toxic Model Evaluation ---
+Accuracy: 0.9909
+F1 Score: 0.3739
+ROC AUC Score: 0.6345
+
+--- obscene Model Evaluation ---
+Accuracy: 0.9798
+F1 Score: 0.7795
+ROC AUC Score: 0.8362
+
+--- threat Model Evaluation ---
+Accuracy: 0.9973
+F1 Score: 0.2637
+ROC AUC Score: 0.5805
+
+--- insult Model Evaluation ---
+Accuracy: 0.9732
+F1 Score: 0.6739
+ROC AUC Score: 0.7778
+
+--- identity_hate Model Evaluation ---
+Accuracy: 0.9926
+F1 Score: 0.3580
+ROC AUC Score: 0.6168
+

@@ -80,9 +80,3 @@ The `evaluation_results.txt` file contains the accuracy, F1 score, and ROC AUC s
 
 ### Predictions
 The `test_predictions.csv` file contains the predicted toxicity labels for the comments in the `test.csv` dataset.
-
-## VS Code Setup Guide
-(Refer to `vscode_setup_guide.md` for detailed instructions.)
-
-
-

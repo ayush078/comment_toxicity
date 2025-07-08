@@ -84,7 +84,5 @@ The `test_predictions.csv` file contains the predicted toxicity labels for the c
 ## VS Code Setup Guide
 (Refer to `vscode_setup_guide.md` for detailed instructions.)
 
-## Author
-Manus AI
 
 
